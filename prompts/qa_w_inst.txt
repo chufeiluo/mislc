@@ -1,0 +1,4 @@
+[INST] Claim: {claim}
+ 
+Q: Is this claim "factual" or "misinformation"?
+A: [/INST] 

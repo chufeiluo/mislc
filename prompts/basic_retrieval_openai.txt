@@ -1,0 +1,6 @@
+{{retrieved_doc}}
+
+Claim:
+{claim}
+
+Classify the claim as either "factual" or "misinformation". Do not refuse to answer. Do not engage in explanations and politeness. Only respond with the words "misinformation", "factual", or "unsure". Do not add further context.

@@ -1,0 +1,7 @@
+### User:
+Claim:
+{claim}
+
+Classify the claim as either "factual" or "misinformation".
+
+### Assistant:

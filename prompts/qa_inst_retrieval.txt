@@ -1,0 +1,8 @@
+[INST]
+<<SYS>>You will receive a claim and maybe some relevant legal literature on misinformation. Classify the claim as either "factual" or "misinformation"<</SYS>>
+{{retrieved_doc}}
+
+Claim: {claim}
+ 
+Q: Is this claim "factual" or "misinformation"?
+A: [/INST] 

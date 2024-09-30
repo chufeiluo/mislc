@@ -1,0 +1,6 @@
+{{retrieved_doc}}
+
+Claim:
+{claim}
+
+Classify the claim as either "factual," "misinformation," or "unsure," then explain your answer. Output your classification, then a short explanation. Do not refuse to answer.
